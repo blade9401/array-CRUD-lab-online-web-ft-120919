@@ -6,13 +6,14 @@ def create_an_array
   my_array = ["My array","Second string"]
 end
 
-def add_element_to_end_of_array = ["array", "element"]
+def add_element_to_end_of_array 
   add_to_end_of_array = []
-  add_element_to_end_of_array << "add this to end"
+  add_to_end_of_array << ("add this to end")
 end
 
-def add_element_to_start_of_array = ["array", "element"]
-  add_element_to_start_of_array.unshift("add this to front of array")
+def add_element_to_start_of_array 
+  add_this_to_beginning = ["array", "element"]
+  add_this_to_beginning ("add this to front of array")
 end
 
 def remove_element_from_end_of_array(array)
