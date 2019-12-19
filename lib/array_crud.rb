@@ -11,7 +11,9 @@ def add_element_to_end_of_array(array, element)
   my_array << "arrays!"
 end
 
-def add_element_to_start_of_array
+def add_element_to_start_of_array(array, element)
+  my_array = ["I","am","really","learning","arrays"]
+  my_array.
 end
 
 def remove_element_from_end_of_array(array)
