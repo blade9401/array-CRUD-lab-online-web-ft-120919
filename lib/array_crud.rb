@@ -1,11 +1,13 @@
-def create_an_empty_array = []
+def create_an_empty_array
+  my_empty_array = []
 end
 
-def create_an_array = ["My array","Second string"]
-  my_array = 
+def create_an_array
+  my_array = ["My array","Second string"]
 end
 
 def add_element_to_end_of_array = ["array", "element"]
+  add_to_end_of_array = []
   add_element_to_end_of_array << "add this to end"
 end
 
