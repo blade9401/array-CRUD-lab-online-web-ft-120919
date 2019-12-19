@@ -7,7 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array 
-  second_array = ["Wow","I'm","really","learning"]
+  second_array = ["Wow","I","am","really","learning"]
   second_array << "arrays"
 end
 
